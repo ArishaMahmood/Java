@@ -6,5 +6,4 @@ public class FirstJavaProgram {
 		String name = "Arisha Mahmood";
 		System.out.println("My name is "+name);
 	}
-
 }
